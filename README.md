@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://wa.me/62895351520446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="abdullah" height="30" width="40" /></a>
 
-<h3 align="left">Language:</h3>
+<h3 align="left">Language & tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="" target="_blank"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="40" height="40"/></a>
 <a href="https://laravel.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Framework/laravel.svg" alt="laravel" width="40" height="40"/> </a>
@@ -40,4 +40,5 @@
 <a href=""> <img src="https://camo.githubusercontent.com/c994f99958731f1dc803e2f9cb5bcd52a6a7cf95322cc7543e0c694abc4bd819/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f676e755f626173682d69636f6e2e737667" alt="" width="40" height="40"/> </a>
 <a href=""> <img src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667" alt="" width="40 height="40"/> </a>
 <a href=""> <img src="https://camo.githubusercontent.com/0d57a1013ca687b2df81dc1652bf33293b0d9e43d4745d7e70f33b0c79fef474/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c696e75782d6f726967696e616c2e737667" alt="" width="40" height="40"/>
+<a href=""> <img src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" widht="40" height="40"/></a>
 </p>
