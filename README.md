@@ -3,7 +3,7 @@
 <h3 align="center">Junior back-end developer</h3>
 
 - 🔭 I’m currently freelancing web automation - scraper and web development
--  🌱 I’m learning **Python (3.11.X)**, **nodejs (19.4.0)**, **php (8.1.11)**
+-  🌱 I’m learning **Python (3.X.X)**, **nodejs (19.X.X)**, **php (8.X.X)**
 
 - 🔰 All of my projects are available at
 
