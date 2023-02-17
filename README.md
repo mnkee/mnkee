@@ -25,7 +25,6 @@
 <a href="https://php.net" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/php.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://phpmyadmin.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <a href=""> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
-<a href=""> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="" width="40" height="40"/> </a>
 <a href=""> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="" width="40" height="40"/> </a>
 <a href=""> <img src="https://avatars.githubusercontent.com/u/51960834?s=100" alt="" width="40" height="40" /></a>
 <a href=""> <img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="" width="40" height="40"/></a>
