@@ -27,5 +27,4 @@
 <a href="https://phpmyadmin.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <a href=""> <img src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667" alt="" width="40 height="40"/> </a>
 <a href=""> <img src="https://camo.githubusercontent.com/0d57a1013ca687b2df81dc1652bf33293b0d9e43d4745d7e70f33b0c79fef474/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c696e75782d6f726967696e616c2e737667" alt="" width="40" height="40"/>
-<a href=""> <img src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" widht="40" height="40"/></a>
 </p>
